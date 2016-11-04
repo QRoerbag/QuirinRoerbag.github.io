@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Stijl.css">
+	<title>Wie Ben Ik</title>
+</head>
+<body>
+	<header class="Zoekbalk">
+		<ul class="Zoekbalk">
+			<div class="ZD" style="text-align:center;">
+					<div class="Dropdown-ding">
+						<div class="dropdown">
+					  		<button class="dropbtn"><img src="List.png" height="20" width="20"></button>
+					  			<nav class="dropdown-content">
+					    			<a href="Index.html">Index</a>
+					    			<a href="Opleiding.html">Opleiding</a>
+					    			<a href="Overmij.html">Over Mij</a>
+					    			<a href="Beroep.html">Beroep</a>
+					    			<a href="Nieuws.html">Nieuws</a>
+					  			</nav>
+						</div>
+					</div>
+				<input type="text" name="search" placeholder="Werkt Niet">
+			</div>
+		</ul>
+	</header>
+	<main class="Balk">
+		<div class="Balk-Inhoud">
+			<h1>Wie ben ik</h1>
+			<p>abc</p>
+		</div>
+	</main>
+</body>
+</html>
